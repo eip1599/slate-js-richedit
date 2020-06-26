@@ -1,0 +1,29 @@
+{
+  "name": "slate-js-richedit",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "@material-ui/core": "4.10.2",
+    "@material-ui/icons": "4.9.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "slate": "0.58.3",
+    "slate-react": "0.58.3"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
